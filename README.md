@@ -41,10 +41,8 @@ JavaScript– for functionality and interactivity
 3. The progress bar updates automatically as the music plays.
 
 
+
+4. Click on the progress bar to jump to a specific time in the song
 ----
 Author
 Bhumika Upadhyay|Frontend Developer|React Enthusiast
-
-
-
-4. Click on the progress bar to jump to a specific time in the song
